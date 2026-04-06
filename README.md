@@ -120,7 +120,7 @@ Finance-Dashboard-UI-Assignment/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Finance-Dashboard-UI-Assignment.git
+git https://github.com/bholap1506/Finance-Dashboard-UI-Assignment
 ```
 
 2. Open the project folder
